@@ -1,6 +1,6 @@
 # version-bump-test
 
-Utilizes (Gulp Bump)[https://github.com/stevelacy/gulp-bump] to automatically increase the version number based on semantic versioning.
+Utilizes [Gulp Bump](https://github.com/stevelacy/gulp-bump) to automatically increase the version number based on semantic versioning.
 
 Install:
 ```
